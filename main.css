@@ -1,0 +1,21 @@
+body{
+    font-family: 'Roboto';
+
+} 
+.mx-1{
+    margin-left: 15px;
+}
+.bg {
+    background-color:rgb(0,0,0);
+    color: white;
+}
+ .btn-outline-info{
+background-color: royalblue;
+color: white;
+justify-self: end;
+margin-left: 960px;
+}
+ 
+.sm{
+    margin-left: 160px;
+}

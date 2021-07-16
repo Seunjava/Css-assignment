@@ -1,0 +1,17 @@
+.#mx-5{
+    margin-left: 20px;
+}
+.ca{
+    margin: 20px 20px;
+}
+
+.carousel-caption {
+    /* top: 0;
+    left: 20%;
+    bottom: auto; */
+    position: absolute;
+    top:50px;
+    left: 20px;
+    
+
+}

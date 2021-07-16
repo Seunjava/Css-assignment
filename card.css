@@ -1,0 +1,29 @@
+.t {
+    height: 300px;
+    background: red;
+    position: relative;
+    margin: 20px 20px;
+}
+
+.t:before {
+    content: '';
+    position: absolute;
+    top: 0; right: 0;
+    border-top: 80px solid white;
+    border-radius: 20px;
+    border-left: 80px solid red;
+    width: 0;
+    margin: 20px 20pxs;
+}
+
+.about {
+    text-align: justify;
+    align-content: center;
+    word-wrap: break-word;
+    margin-top: 3px;
+   }
+
+  .abouts {
+     
+    align-content: center;
+   }
